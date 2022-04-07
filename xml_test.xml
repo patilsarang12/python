@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<myinfo>
+  <Address>
+    <city>pune</city>
+    <state>maharashtra</state>
+  </Address>
+  <Age>42</Age>
+  <firstname>Devadatta</firstname>
+  <lastname>Herekar</lastname>
+  <technologies>
+    <skills>java</skills>
+    <skills>dotnet</skills>
+    <skills>shell scripting</skills>
+  </technologies>
+</myinfo>

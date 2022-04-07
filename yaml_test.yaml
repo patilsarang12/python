@@ -1,0 +1,12 @@
+myinfo:
+  Address:
+    city: pune
+    state: maharashtra
+  Age: '42'
+  firstname: Devadatta
+  lastname: Herekar
+  technologies:
+    skills:
+      - java
+      - dotnet
+      - shell scripting

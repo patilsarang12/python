@@ -29,6 +29,7 @@ select_choice="""
 
 def menu():
     choice=int(input(select_choice))
+    data.create_cricketers_file()
     while choice!=5:
         if choice==1:
             user_add_cricketer()

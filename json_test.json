@@ -1,0 +1,14 @@
+{
+  "myinfo": {
+    "Address": {
+        "city": "pune",
+        "state": "maharashtra"
+    },
+    "Age": 42,
+    "firstname": "Devadatta",
+    "lastname": "Herekar",
+    "technologies": {
+      "skills": ["linux","python","c++"]
+    }
+  }
+}
